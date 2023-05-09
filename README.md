@@ -8,4 +8,3 @@ In order to use this, download the files as zip. After you have done that, go to
 
 If extension not working tell me in issues.
 
-This is a cookie logger so don't use. My friend made the script and I didn't realized he added a cookie logger until now. Don't download this at all until I figure out how to remove it with the bot running fine.
